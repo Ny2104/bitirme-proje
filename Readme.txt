@@ -11,9 +11,11 @@ Kullanıcı dostu ve modern bir arayüz sağlamak
 Duyarlı tasarım (farklı cihazlar ve ekran boyutlarıyla uyumlu)
 Görsel olarak çekici ve etkileşimli tasarım
 Güvenilir ve hatasız çalışma
+
+
 Mimarlık Bileşenleri:
 
-İlk dönem proje raporunun aksine, sitemiz bir statik sitedir, backend ve veritabanı tarafı yoktur. Aşağıdaki diller kullanılarak ve React ve backend kullanılmadan tasarlanmıştır:
+Sitemiz bir statik sitedir, backend ve veritabanı tarafı yoktur. Aşağıdaki diller kullanılarak  backend kullanılmadan tasarlanmıştır.
 
 HTML: Web sayfalarının temel yapısını oluşturmak için
 CSS: Web sayfalarının görünüm ve stilini kontrol etmek için
