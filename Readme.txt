@@ -15,7 +15,7 @@ Güvenilir ve hatasız çalışma
 
 Mimarlık Bileşenleri:
 
-Sitemiz bir statik sitedir, backend ve veritabanı tarafı yoktur. Aşağıdaki diller kullanılarak  backend kullanılmadan tasarlanmıştır.
+Site bir statik sitedir, backend ve veritabanı tarafı yoktur. Aşağıdaki diller kullanılarak  tasarlanmıştır.
 
 HTML: Web sayfalarının temel yapısını oluşturmak için
 CSS: Web sayfalarının görünüm ve stilini kontrol etmek için
