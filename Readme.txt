@@ -21,4 +21,4 @@ HTML: Web sayfalarının temel yapısını oluşturmak için
 CSS: Web sayfalarının görünüm ve stilini kontrol etmek için
 JavaScript: Web sayfalarına etkileşim eklemek için
 Bootstrap: Duyarlı web tasarımları oluşturmak için
-Unity: Etkileşimli oyunlar geliştirmek için
+
